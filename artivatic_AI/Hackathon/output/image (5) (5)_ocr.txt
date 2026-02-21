@@ -1,0 +1,49 @@
+,      ,
+manipalhospitals                Wr
+LIFE’S ON
+MANIPAL HOS PITAL BHUBANES WAR
+Plot No.1, Besides Satyasai Enclave, Khandagiri, Bhubanes wat, 751030 P; +91 6746666600
+CIN; U85110WB1986PTC040525,
+Date ; 25/09/2025 09:25:56
+INPATIENT INTERIM RUNNING DETAIL BILL WITH POLICY DISCOUNT
+Ee —_—_———                                      Reg No.                      + MHO17321255
+Age {Sex  SS                                                              InPatient No                  : 130000069238
+SL, Particulars                                                                                                                              Amt{Rs,)
+Order tem                                      Qty             Price              Gross Amt               Pol. Disc,                    NetAmt
+(24/09/2025, 06:21PM)              10        16.33           163.28                            163.28
+PANTODAC DSR CAPSULES (15S), ZYDUS
+(24/09/2025, 06:21PM)                       15             19.96                  299.41                                               299.41
+Sub Total :                                               5,583.07                                          5,583.07
+11 Pharmacy Drugs $AC:999311 - MEDICAL HDU MBO
+CANNULA 20 G VENFLON (REF #391492), BD
+(22/09/2025, 05:52PM)                       1             321.09                  321.09                                               321.09
+COCONUT OIL 50 ML, SHALIMER
+(22/09/2025, 05:52PM)                       1               68.00                   68.00                                                 68.00
+DIGITAL THERMOMETER, MCC
+(22/09/2025, 05:52PM)                       1             249.00                  249.00                                               249.00
+EXTENSION TUBING 10 CM WITH 3WAY STOPCOCK, POLYMED )
+(22/09/2025, 05:52PM)                       1             252.19                  252.19                                               252.19
+IV SET LUER LOCK INTRAFIX S AFESET AIR VENT/LATEXFREE, B.BRAUN
+(22/09/2025, 05:52PM)                       1             288.39                  288.39                                               288.39
+MICROSHIELD HANDWASH 4% W/V TOPICAL S GLUTION 100 ML, REORDER NO: 747 }
+(22/09/2025, 05:52PM)                       1             264.00                  264.00                                               264.00
+MICROSHIELD Handrub 0.5% w/y topical solution 500 ML, Reorder No; 636
+(22/09/2025, 05:52PM)                       1             662,93                  662.93                                               662.93
+TEGADERM IV 7X8.5CM DRESSING, 1633, 3M)
+(22/09/2025, 05:52PM)                       1             235.00                  235.00                                               235.00
+NO CODING ONE PLUS 1X100 SRTIPS # 281105 ISENS
+(22/09/2025, 08:21PM)                       1               B1.4L                   31.44                                                 31.41
+NO CODING ONE PLUS 1X100 SRTIPS # 281105 ISENS
+(22/09/2025, 08:22PM)                    1             31.41                BL.4a                                          31LAL
+NO CODING ONE PLUS 1X100 SRTIPS # 281105 ISENS
+(23/09/2025, 02:53AM)                       1               4d                   314i                                                 B14t
+NORMAL SALINE 0.9% W/V 100 ML AQUA PULSE, DENIS
+(23/09/2025, 02:53AM)                       2              44.91                   89.82                                                 89.82
+SYRINGE 10 ML WITH NEEDLE 21 G DISPOVAN, HMD
+(23/09/2025, 02:53AM)                       3               13.41                   40.23                                                 40.23
+NO CODING ONE PLUS 1X100 SRTIPS # 281105 ISENS
+(23/09/2025, 12:12PM)                    1             31.41                BL.4a                                          31LAL
+NORMAL SALINE 0.9% W/V 100 ML AQUA PULSE, DENIS
+(23/09/2025, 12:12PM)                       1               44,91                   44.91                                                 44.91
+ASTHALIN 2.5 MG/2.5 ML RESPULES INHALATION SOLUTION, SALBUTAMOL
+Page 6 of 9

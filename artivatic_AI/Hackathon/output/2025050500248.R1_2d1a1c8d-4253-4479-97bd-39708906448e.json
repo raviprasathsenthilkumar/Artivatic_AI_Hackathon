@@ -1,0 +1,77 @@
+{
+  "bill_type": "Final Bill",
+  "bill_number": null,
+  "bill_date": "2025-04-21",
+  "hospital": {
+    "name": "2      - 4        ZYDUS HOSPITALS & HEALTHCARE RESEARCH PVT. LTD.",
+    "address": "e                                                 Nr, Sola Bridge, 5.G Highway, Thalte], Ahm edabad-380054                           OER,, z   d       F)       Phone: +51 79 66190201 (Qoard), Website: wwwzydushospitals.com        by     i",
+    "phone": null,
+    "email": null,
+    "gstin": null
+  },
+  "patient": {
+    "name": "BHAVIN PATEL\nAddrest",
+    "age": null,
+    "dob": null,
+    "gender": null,
+    "uhid": null
+  },
+  "admission": {
+    "admission_date": "2025-04-21",
+    "discharge_date": null,
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": null,
+    "opd_number": null,
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": "Dr. BHAVIN PATEL",
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": 206.0,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": null,
+    "_warnings": [
+      "gross_total computed from all line items"
+    ]
+  },
+  "line_items": [
+    {
+      "description": "LABORATORY SERVICES",
+      "category": "Other",
+      "amount": 6.0,
+      "exc_amount": 206.0
+    }
+  ],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\Final Bills\\2025050500248.R1_2d1a1c8d-4253-4479-97bd-39708906448e.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 2.25,
+    "extracted_at": "2026-02-21T13:43:05.657668",
+    "raw_text_chars": 8198,
+    "line_items_found": 1
+  }
+}

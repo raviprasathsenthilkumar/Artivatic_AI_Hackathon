@@ -1,0 +1,46 @@
+STATEMENT OF ACCOUNT
+From : 18-Sep-2018 12:00AM To : 20-Sep-2018 11:59PM
+Admission No. IP/18/012383   Adm Date 18-Sep-2018       Current Bed No 1111
+Patient Name SS         Settl. Type | Corporate
+T. PHA         ajaj Allianz General Insurance Co. Ltd. Primary Doctor Dr Vinay Chauhan
+Party Name     Bajaj Allianz General Insurance Co. Ltd. TPA Ref No. : AL No : HAT/19/2048528
+Insurance Co.
+“Chg.Dt Svc.Dt RefNo Charge Description ©. ty Amt(Rs) _
+6,000
+Pathology
+Sep19 Sep19 RQ/284023 Complete Blood Count (CBC)                                            860
+Sepl19 Sep19 RO/284024 SMA 12+2 (Non Fasting)                                              6,800
+Sep19 Sep19 RQ/284024 Magnesium                                                           1,060
+Sep19 Sep19 RQ/284024 Potassium                                                             600
+Sep19 Sep19 RQ/284024 Sodium                                                                700
+Sep19 Sep19 RQ/284035 HCV Antibodies (ELISA)                                      4,160
+Sep19 Sep19 RO/284035 HBsAg (ELISA)                                                      1,560
+Sep19 Sep19 ROQ/284033 HIV I & II (ELISA)                                        2,300
+Sep19 Sep19 RQ/284023 Partial Thromboplastin Time (PTT)                                     980
+Sep19 Sep19 RQ/284023 Prothrombin Time (with INR)                                           800
+Sep19 Sep19 RQ/284043 13, T4, TSH, FT3, FT4- Package                                      5,240
+Sep20 Sep20 RO/284767 Glyco HB/ HBAIC (HPLC)                                              1,920
+Sep20 Sep20 RQ/285056 Erythrocyte Sedimentation Rate (ESR)                                  680
+27,660
+Radiology & Imaging
+Sep19 Sep19 RQ/284185 X Ray Chest - P.A. View                                             1,180
+1,180
+MRI
+Sep19 Sep19 RQ/284538 MR Brain Spectroscopy                                              13,910
+Sep20 Sep20 RQ/286066 Extra CD - MRI                                                      1,460
+Sep20 Sep20 RO/286066 Extra Film (Per Plate)                                     iS]       18,360
+Sep20 Sep20 RO/284538 Perusion MRI                                                       21,700
+Sep20 Sep20 RQ/284538 Diffusion Tensor Imaging                                           13,910
+69,340
+Neurology
+Sep19 Sep19 RQ/284507 Portable Electro Encephalogram (E.E.G)                              4,320
+Dr Vinay Chauhan
+4,320
+Ophthalmology
+Sep19 Sep19 RQ/284584 Perimetry - Procedure Charge                                 2,880
+Sep19 Sep19 RQ/284584 Perimetry - Doctor’s Fees                                   1,440
+Dr Salil Mehta
+4,320
+Pharmacy
+Sep18 Sep18 PH/140734 Pharmacy - Ward                                          1,742
+Page 2 of 6                   Printed On:      20/09/2018     UserName:   ANUSHKA

@@ -1,0 +1,67 @@
+{
+  "bill_type": "Hospital Bill",
+  "bill_number": null,
+  "bill_date": null,
+  "hospital": {
+    "name": ".  ©               INVOICE cum RECEIPT _ Ph. (H.) 22823828, 22821501",
+    "address": ".  ©               INVOICE cum RECEIPT _ Ph. (H.) 22823828, 22821501, NF. Floor, Sruhard Complex, (Naroda Doctor House), Opp. Narayannagar Bus Stop, Naroda, Anmedabad-382330.",
+    "phone": null,
+    "email": null,
+    "gstin": null
+  },
+  "patient": {
+    "name": null,
+    "age": null,
+    "dob": null,
+    "gender": null,
+    "uhid": null
+  },
+  "admission": {
+    "admission_date": null,
+    "discharge_date": null,
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": null,
+    "opd_number": null,
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": "Dr. Physician",
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": null,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": null
+  },
+  "line_items": [],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\Summary Bills\\2025112400056.R1_7a584d37-e8b6-4a14-b398-9ee658bf96fc.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 2.28,
+    "extracted_at": "2026-02-21T13:43:50.175177",
+    "raw_text_chars": 727,
+    "line_items_found": 0
+  }
+}

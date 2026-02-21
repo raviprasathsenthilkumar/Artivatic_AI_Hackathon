@@ -1,0 +1,154 @@
+{
+  "bill_type": "Hospital Bill",
+  "bill_number": null,
+  "bill_date": "2023-03-01",
+  "hospital": {
+    "name": "Neotia(Getwel",
+    "address": "20ML | 1804502/ 01-03-2023, 14 SOLID,.NO 14 | G18052530/",
+    "phone": null,
+    "email": null,
+    "gstin": null
+  },
+  "patient": {
+    "name": null,
+    "age": null,
+    "dob": null,
+    "gender": null,
+    "uhid": null
+  },
+  "admission": {
+    "admission_date": null,
+    "discharge_date": null,
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": null,
+    "opd_number": null,
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": null,
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": 3228.54,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": null,
+    "_warnings": [
+      "gross_total computed from all line items"
+    ]
+  },
+  "line_items": [
+    {
+      "description": "DISCARDIT SYRINGE 20ML SOLID, ;                          31.50",
+      "category": "Pharmacy",
+      "quantity": 1.0,
+      "amount": 31.5,
+      "exc_amount": 31.5
+    },
+    {
+      "description": "RYLES TUBE (ROMOLENE) NO                                        52.00",
+      "category": "Other",
+      "quantity": 2.0,
+      "amount": 104.0,
+      "exc_amount": 104.0
+    },
+    {
+      "description": "REMAC CD3 TAB 10S ,SOLID.,.. |                                20.50",
+      "category": "Pharmacy",
+      "quantity": 40.0,
+      "amount": 820.0,
+      "exc_amount": 820.0
+    },
+    {
+      "description": "PYRIGESIC TAB 10S ,SOLID,. | DF8029/ :                    0.92",
+      "category": "Pharmacy",
+      "quantity": 10.0,
+      "amount": 9.18,
+      "exc_amount": 9.18
+    },
+    {
+      "description": "CORDARONE 100MG TAB 10S ,SOLID,                             5.80",
+      "category": "Pharmacy",
+      "quantity": 10.0,
+      "amount": 58.0,
+      "exc_amount": 58.0
+    },
+    {
+      "description": "CORDARONE 100MG TAB 10S |                                     5.80",
+      "category": "Pharmacy",
+      "quantity": 10.0,
+      "amount": 58.0,
+      "exc_amount": 58.0
+    },
+    {
+      "description": "PM LINE 200CM ROMSON ,SOLID,                                  244.00'",
+      "category": "Other",
+      "quantity": 2.0,
+      "amount": 488.0,
+      "exc_amount": 488.0
+    },
+    {
+      "description": "CALPOL 650MG TAB 15S ,SOLID,          1                         1.93",
+      "category": "Pharmacy",
+      "quantity": 15.0,
+      "amount": 29.02,
+      "exc_amount": 29.02
+    },
+    {
+      "description": "NS LOOME AMANTA ,Liquid,100ML |                             35.52",
+      "category": "Other",
+      "quantity": 42.0,
+      "amount": 1491.84,
+      "exc_amount": 1491.84
+    },
+    {
+      "description": "ANAWIN 0.25% INJ | UN163093/                                      49.50",
+      "category": "Pharmacy",
+      "quantity": 1.0,
+      "amount": 49.5,
+      "exc_amount": 49.5
+    },
+    {
+      "description": "ALDACTONE 25MG TAB 155 ,SOLID,                              1.93",
+      "category": "Pharmacy",
+      "quantity": 30.0,
+      "amount": 58.0,
+      "exc_amount": 58.0
+    },
+    {
+      "description": "HEALTHCARE CENTRE",
+      "category": "Other",
+      "amount": 31.5,
+      "exc_amount": 31.5
+    }
+  ],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\Detailed hospital bill\\2042173-10.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 2.08,
+    "extracted_at": "2026-02-21T13:42:32.029674",
+    "raw_text_chars": 5395,
+    "line_items_found": 12
+  }
+}

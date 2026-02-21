@@ -1,0 +1,276 @@
+{
+  "bill_type": "Final Bill",
+  "bill_number": "002999",
+  "bill_date": "2018-09-03",
+  "hospital": {
+    "name": "manipalhospitals                Ww",
+    "address": "Plot No.1, Besides Satyasai Enclave, Khandagiri, Bhubaneswar, 751030 P: +91 6746666600, CIN: U851 1OWB1986PTC040525",
+    "phone": null,
+    "email": "viswatejahospitals@gmail.cam",
+    "gstin": null
+  },
+  "patient": {
+    "name": "Praludl Sundedre",
+    "age": 2,
+    "dob": null,
+    "gender": "Female",
+    "uhid": "1553/IPD"
+  },
+  "admission": {
+    "admission_date": "2025-05-25",
+    "discharge_date": "2025-05-29",
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": "Date",
+    "opd_number": "7",
+    "los_days": 4
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": "Dr. Pathologist",
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": 126249.94,
+    "lab_charges": 6828.0,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": 5339.1,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": "Twenty Thousand Six Hundred Ten"
+  },
+  "line_items": [
+    {
+      "description": "SER00083 APTT(ACTIVATED PARTIAL THROMBOPLASTIN TIME)",
+      "category": "Lab / Diagnostics",
+      "quantity": 4.0,
+      "amount": 470.0,
+      "exc_amount": 470.0
+    },
+    {
+      "description": "SER02069 BLOOD GROUPING AND RH",
+      "category": "Lab / Diagnostics",
+      "quantity": 1.0,
+      "amount": 410.0,
+      "exc_amount": 110.0
+    },
+    {
+      "description": "SER02070 CBC(COMPLETE BLOOD COUNT)",
+      "category": "Lab / Diagnostics",
+      "quantity": 5.0,
+      "amount": 330.0,
+      "exc_amount": 4850.0
+    },
+    {
+      "description": "SER00719 DC (DIFFERENTIAL COUNTS)",
+      "category": "Other",
+      "quantity": 1.0,
+      "amount": 709.0,
+      "exc_amount": 109.0
+    },
+    {
+      "description": "SERGI909 §=TC (TOTAL LEUCOCYTE COUNT)",
+      "category": "Lab / Diagnostics",
+      "quantity": 1.0,
+      "amount": 150.0,
+      "exc_amount": 150.0
+    },
+    {
+      "description": "SER02081 ET SECRETION FOR CULTURE AND SENSITIVITY",
+      "category": "Lab / Diagnostics",
+      "quantity": 1.0,
+      "amount": 450.0,
+      "exc_amount": 450.0
+    },
+    {
+      "description": "SERQ1416 MRI BRAIN",
+      "category": "Radiology",
+      "quantity": 1.0,
+      "amount": 9770.0,
+      "exc_amount": 9770.0
+    },
+    {
+      "description": "SER02816 HAEMOGLOBIN (HB) SUNSHINE",
+      "category": "Lab / Diagnostics",
+      "quantity": 1.0,
+      "amount": 110.0,
+      "exc_amount": 410.0
+    },
+    {
+      "description": "SEROIi66 =TRACHEOSTOMY CHARGE",
+      "category": "Service Charges",
+      "quantity": 1.0,
+      "amount": 5750.0,
+      "exc_amount": 5750.0
+    },
+    {
+      "description": "SER01i64 BED SIDE X-RAY CHEST AP",
+      "category": "Radiology",
+      "quantity": 4.0,
+      "amount": 620.09,
+      "exc_amount": 2480.0
+    },
+    {
+      "description": "SER00187 BLOOD TRANSFUSION CHARGES-PER UNIT",
+      "category": "Service Charges",
+      "quantity": 5.0,
+      "amount": 420.0,
+      "exc_amount": 2100.0
+    },
+    {
+      "description": "SEROOS44 FLOWTRON PER DAY",
+      "category": "Service Charges",
+      "quantity": 3.0,
+      "amount": 2970.0,
+      "exc_amount": 7110.0
+    },
+    {
+      "description": "SER00139 INTUBATION CHARGES                                                   “",
+      "category": "Service Charges",
+      "quantity": 1.0,
+      "amount": 1360.0,
+      "exc_amount": 1360.0
+    },
+    {
+      "description": "SER01238 NEBULISATION CHARGES                                       ey",
+      "category": "Service Charges",
+      "quantity": 30.0,
+      "amount": 140.9,
+      "exc_amount": 4200.0
+    },
+    {
+      "description": "SEROOSS1 VENTILATOR PER DAY                                       va",
+      "category": "Service Charges",
+      "quantity": 6.0,
+      "amount": 5450.0,
+      "exc_amount": 43600.0
+    },
+    {
+      "description": "SER02045 HAEMO DIALYSIS HDU/MICU/SICUICTICU .           ip Tee",
+      "category": "Service Charges",
+      "quantity": 4.0,
+      "amount": 6075.0,
+      "exc_amount": 24300.0
+    },
+    {
+      "description": "SER02742 PHYSIOTHERAPY - (SICU-MICU-ICCU-HD U-NICU-CTICU}",
+      "category": "Service Charges",
+      "quantity": 1.0,
+      "amount": 400.0,
+      "exc_amount": 400.0
+    },
+    {
+      "description": "2      EMERGENCY CONSULTATION         Dr. DR.TEIAS CHOTAL",
+      "category": "Consultation",
+      "quantity": 1.0,
+      "amount": 2000.0,
+      "exc_amount": 2000.0
+    },
+    {
+      "description": "IFFCO TOKIO GENERAL INS URANCE COMPANY (section total)",
+      "category": "Other",
+      "amount": 63071.0,
+      "is_section_total": true
+    },
+    {
+      "description": "MICRO BIOLOGY (section total)",
+      "category": "Other",
+      "amount": 2230.0,
+      "is_section_total": true
+    },
+    {
+      "description": "MRI SCAN (section total)",
+      "category": "Radiology",
+      "amount": 9770.0,
+      "is_section_total": true
+    },
+    {
+      "description": "PATHOLOGY (section total)",
+      "category": "Lab / Diagnostics",
+      "amount": 110.0,
+      "is_section_total": true
+    },
+    {
+      "description": "SEROLOGY (section total)",
+      "category": "Lab / Diagnostics",
+      "amount": 7450.0,
+      "is_section_total": true
+    },
+    {
+      "description": "X RAY (section total)",
+      "category": "Radiology",
+      "amount": 2480.0,
+      "is_section_total": true
+    },
+    {
+      "description": "PHARMACY (section total)",
+      "category": "Pharmacy",
+      "amount": 126249.94,
+      "is_section_total": true
+    },
+    {
+      "description": "NPA00282/ 30-11-2026 (300450)",
+      "category": "Other",
+      "amount": 3.0
+    },
+    {
+      "description": "NPAQO2B2/ 30-11-2026 (300490)",
+      "category": "Other",
+      "amount": 7.0,
+      "exc_amount": 587.0
+    },
+    {
+      "description": "S2TM782103/ 30-11-2026 (30049061)",
+      "category": "Other",
+      "amount": 5.19,
+      "exc_amount": 22.03
+    },
+    {
+      "description": "SERVICE CHARGES",
+      "category": "Service Charges",
+      "amount": 1360.0,
+      "exc_amount": 1360.0
+    },
+    {
+      "description": "PHARMACY",
+      "category": "Pharmacy",
+      "amount": 430.0,
+      "exc_amount": 430.0
+    },
+    {
+      "description": "CHARGE SUPERSPECIALIST",
+      "category": "Consultation",
+      "amount": 2100.0,
+      "exc_amount": 2100.0
+    }
+  ],
+  "payments": [
+    {
+      "mode": "Card",
+      "amount": 575.0
+    }
+  ],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Testing data\\image (new).pdf",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 30.81,
+    "extracted_at": "2026-02-21T13:45:27.991860",
+    "raw_text_chars": 30575,
+    "line_items_found": 31
+  }
+}

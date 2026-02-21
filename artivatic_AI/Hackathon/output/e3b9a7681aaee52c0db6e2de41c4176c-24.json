@@ -1,0 +1,67 @@
+{
+  "bill_type": "Hospital Bill",
+  "bill_number": null,
+  "bill_date": null,
+  "hospital": {
+    "name": "it                     Agen f             .                                           viswatejahospitals@gmail.com =",
+    "address": "Registraton No 88205                                                           Registration No 104131, @ R PG TRoad, Near Srinivasa Talkies, Hindupur-515201, Anantapur (Dt), Andhra Pradesh",
+    "phone": null,
+    "email": "viswatejahospitals@gmail.com",
+    "gstin": null
+  },
+  "patient": {
+    "name": null,
+    "age": null,
+    "dob": null,
+    "gender": "Female",
+    "uhid": null
+  },
+  "admission": {
+    "admission_date": null,
+    "discharge_date": null,
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": null,
+    "opd_number": null,
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": "Dr. Pathotogst",
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": null,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": null
+  },
+  "line_items": [],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\Diagnostic Bills\\e3b9a7681aaee52c0db6e2de41c4176c-24.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 1.91,
+    "extracted_at": "2026-02-21T13:42:45.120523",
+    "raw_text_chars": 2357,
+    "line_items_found": 0
+  }
+}

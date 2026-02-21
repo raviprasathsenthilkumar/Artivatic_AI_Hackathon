@@ -1,0 +1,67 @@
+{
+  "bill_type": "Hospital Bill",
+  "bill_number": null,
+  "bill_date": null,
+  "hospital": {
+    "name": "O                                   BILL OF SUPPLY                                    e",
+    "address": "--SPOE #30 1. CAL FRASAD APT SAT SECTICH ANEERHATH EXST         Scheduled Cash Harn Hows £474544, Brug Lic, tho. 20nH-T25-244004, 2b-T2S-224025, ZOU 2850 26",
+    "phone": null,
+    "email": null,
+    "gstin": null
+  },
+  "patient": {
+    "name": null,
+    "age": null,
+    "dob": null,
+    "gender": null,
+    "uhid": null
+  },
+  "admission": {
+    "admission_date": null,
+    "discharge_date": null,
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": null,
+    "opd_number": null,
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": null,
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": null,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": 6.0,
+    "amount_in_words": null
+  },
+  "line_items": [],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\Pharmacy Bills\\12_ceb767f6e642eeeb7480917a6564792a-55.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 1.88,
+    "extracted_at": "2026-02-21T13:43:41.530725",
+    "raw_text_chars": 1319,
+    "line_items_found": 0
+  }
+}

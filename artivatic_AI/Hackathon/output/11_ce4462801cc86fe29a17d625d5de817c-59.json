@@ -1,0 +1,67 @@
+{
+  "bill_type": "Hospital Bill",
+  "bill_number": null,
+  "bill_date": null,
+  "hospital": {
+    "name": "AAI               ED i",
+    "address": "Shop No. 1, Ground Floor, S No. 16, Hissa No. 3/1/3,, Gururaj Apt., Ambegaon Bk., Tal. Haveli, Pune.               Add.: a",
+    "phone": null,
+    "email": null,
+    "gstin": null
+  },
+  "patient": {
+    "name": "rafudl  Sundedvrc",
+    "age": null,
+    "dob": null,
+    "gender": null,
+    "uhid": null
+  },
+  "admission": {
+    "admission_date": null,
+    "discharge_date": null,
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": null,
+    "opd_number": "1",
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": null,
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": null,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": null
+  },
+  "line_items": [],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\Pharmacy Bills\\11_ce4462801cc86fe29a17d625d5de817c-59.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 1.32,
+    "extracted_at": "2026-02-21T13:43:39.645786",
+    "raw_text_chars": 1138,
+    "line_items_found": 0
+  }
+}

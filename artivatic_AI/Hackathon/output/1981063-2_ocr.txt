@@ -1,0 +1,56 @@
+WW
+           SUNSHINE HOSPITALS
+‘  (6)               (A Unit of Sarvejana Healthcare Pvt. Ltd}
+         A                 Laxmi Sagar Square, Puri» Cuttack Road
+2) re                   Bhubaneswar.Odisha - 751006
+as       Tel:0674-2571 188, 0674-2573399, 9338108108
+Hospitalisation Charges From 26-Aug-2018 18:53PM To_03-Sep-2018 16:16 PM
+HAEMATOLOGY                                                                                                                                                                  3,560.00
+SER00083 APTT(ACTIVATED PARTIAL THROMBOPLASTIN TIME)                           1               470.00            470.00
+SER02069 BLOOD GROUPING AND RH                                                            1               410.00            110.00
+SERO2070 CBC(COMPLETE BLOOD COUNT)                                                          5                330.00           4,650.00
+SERO0719 DC (DIFFERENTIAL COUNTS)                                                                     1                  100.00              100.00
+SERO1424 PT (PROTHROMBIN TEST) WITH INR                                                          3                 360.00            1,080.00
+SERO1809 TC (TOTAL LEUCOCYTE COUNT)                                                               1                  160.00              150.00
+MICRO BIOLOGY                                                                                                                                                                 2,230.00
+$SER00580 BLOOD CULTURE (BACT / ALERT VITEG IDENTIFICATION)                           1                 1,330.00             1,330.00
+SER02081 ET SECRETION FOR CULTURE AND SENSITIVITY                                  4                450.00            450.00
+SERO1105 GRAMS STAIN                                                                                                                    1                      450,00                 450,00
+MRI SCAN                                                                                                                                                                          9,770.00
+SERO1415 MRI BRAIN                                                                                     1              9,770.00          9,770.00
+PATHOLOGY                                                                                                                                                                         110.00
+SER02816 HAEMOGLOBIN (HB) SUNSHINE                                                         1                140.00.            410.00
+|             SEROLOGY                                                                                                                                                                        7,450.00
+SER00054 HBS AG (SPOT)                                                                                          1                  250.00             250,00
+SERO1886 HCV (HEPATITIS C)                                                                                    4                  970.00              870.00
+SER00823 HIV I/II (SPOT)                                                                                      1                480.00             480.00
+SERO3166 TRACHEOSTOMY CHARGE                                                                        1                5,750.00            5,750.00
+XRAY                                                                                                                                                                               2,480.00
+SER01164 BED SIDE X-RAY CHEST AP                                                                   4                 620.00           2,480.00
+SERVICE CHARGES
+HOSPITALITY SERVICES                                                                                                                                                     96,530.00
+SEROO688 ALPHA BED PER DAY:                                                                    8               690.00          5,520.00
+SER00187 BLOOD TRANSFUSION CHARGES-PER UNIT                                          5                420.00           2,100.00
+SER00944 FLOWTRON PER DAY                                                                          3              2,370.00           7,110.00
+SERO0189 INTUBATION CHARGES                                               KE HO 3                 1                1,360.00            41,360.00
+SER01235 NEBULISATION CHARGES                                  aS           4           30               140.00          4,200.00
+SER02043 OXYGEN PER DAY                                          =;                 e-         8             4,080.00         32,640.00
+SEROO9S1 VENTILATOR PER DAY                                   a                 pan            5460.00 43,6000
+NEPHROLOGY                                                                                Wy                 S                                                          24,300.00
+SERO2045 HAEMO DIALYSIS HDU/MICU/SICU/CTICU .             NepreSS              4              6,076.00         24,300.00
+PHYSIO THERAPY                                                                                 a al                                                                  400.00
+SER02742 PHYSIOTHERAPY - (SICU-MICU-ICCU-HDU-NICU-CTICU)                            1                 400.00              400.00
+PHARMACY
+PHARMACY                                                                                                                                                                     126,249.94
+3 LUMEN DIALYSIS CATHETER {MFR:ARROW }                  TIFI7B1418 = 02/22          1            5,080.00         5,080.00
+3 WAY EXTENTION 10 CM(TOP) (MFR:KYOLING )                         BAISS = 12/22            1                 159.00             159.00
+3 WAY EXTENTION 10 CM(TOP) (MFR:KYOLING }                        BBSES = 01/23           1                159.00.             159.00
+ATOZ SYRUP 200 ML (MFR:ALKEM )                                       AZNSBO79G (OBIT             1                  121.00              121.00
+AHD SPECIAL 500ML                                                               VL-1820 08/21            1                430.00             430.00
+AMITAX-500 MG INJ                                                                     8132578 02/20            2                   90.50              181.00
+AMPHOMUL 50MG INU (MFR:BHARAT SERUMS )                      01918003 (02/20            2               1,612.18            3,224.36
+ARTACIL 25MG INJ (MFR:NEON }                                                 1303082 O5/19            4                 131.75              527.00
+ATORVA 40MG TAB (MFR:ZYDUS )                                                  1700448 09/19             2                    19.64                39.22
+ATORVA 40MG TAB (MFR:ZYDUS )                                               1801918 05/20            2                   20.28               40.86
+ATORVA 40MG TAB (MFR:ZYDUS )                                              1700447 aav19            7                   19.61              137.27
+Printed By: .$B0370                                                           Printed On;      03-Sep-2018 16:16 PM           page 2 of 7

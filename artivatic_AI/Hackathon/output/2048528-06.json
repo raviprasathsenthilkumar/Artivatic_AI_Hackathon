@@ -1,0 +1,67 @@
+{
+  "bill_type": "Hospital Bill",
+  "bill_number": "Charge",
+  "bill_date": "2018-09-20",
+  "hospital": {
+    "name": "STATEMENT OF ACCOUNT",
+    "address": "Admission No. IP/18/012383   Adm Date 18-Sep-2018       Current Bed No 1111, Party Name     Bajaj Allianz General Insurance Co. Ltd. TPA Ref No. : AL No : HAT/19/2048528",
+    "phone": "/140734",
+    "email": null,
+    "gstin": null
+  },
+  "patient": {
+    "name": "SS",
+    "age": null,
+    "dob": null,
+    "gender": "Male",
+    "uhid": null
+  },
+  "admission": {
+    "admission_date": "2018-09-18",
+    "discharge_date": "2018-09-18",
+    "ward": null,
+    "bed_number": "1111",
+    "ipd_number": null,
+    "opd_number": null,
+    "los_days": 0
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": "Dr. Vinay Chauhan",
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": "Co. Ltd. Primary Doctor Dr Vinay Chauhan",
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": null,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": null
+  },
+  "line_items": [],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\Detailed hospital bill\\2048528-06.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 2.04,
+    "extracted_at": "2026-02-21T13:42:36.344014",
+    "raw_text_chars": 2833,
+    "line_items_found": 0
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "bill_type": "Hospital Bill",
+  "bill_number": "Receipt/Ref",
+  "bill_date": "2025-02-05",
+  "hospital": {
+    "name": "ee) ae         North East Health Care Private Limited                                                PAN No, : AADCN4016!",
+    "address": "‘  HL        ee |             Golf Course Ext Rd, Sushant Lok Ii, Sector 56 Gurugram Haryana-                    GST No..: O6AADCN4036H1Z5, ae’ Marengo Asia = 122021                                            mn in  PORE",
+    "phone": null,
+    "email": "SGST@2.5",
+    "gstin": null
+  },
+  "patient": {
+    "name": "CD",
+    "age": null,
+    "dob": null,
+    "gender": null,
+    "uhid": null
+  },
+  "admission": {
+    "admission_date": null,
+    "discharge_date": null,
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": null,
+    "opd_number": null,
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": null,
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": "Name",
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": 7988.93,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": 8089.0,
+    "amount_in_words": "Eighty One Thousand Eighty Nine only"
+  },
+  "line_items": [],
+  "payments": [
+    {
+      "mode": "Cash",
+      "amount": 71000.0
+    },
+    {
+      "mode": "Card",
+      "amount": 10000.0
+    }
+  ],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\Final Bills\\2025020400155.R1_11c29561-a3c3-4a0f-8b88-792337cb6ae2.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 1.81,
+    "extracted_at": "2026-02-21T13:43:01.552239",
+    "raw_text_chars": 5999,
+    "line_items_found": 0
+  }
+}

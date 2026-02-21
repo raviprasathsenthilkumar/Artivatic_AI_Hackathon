@@ -1,0 +1,72 @@
+COLUMBIAASIA                                      cst + ara
+KST: : 02447277
+COLUMBIA ASIA REFERRAL HOSPITAL-YESHWANTHPUR,                                                                            TIN NO. : 29310803632
+DRUG NO, : KA/BNG/1/20/100659
+26/1, BRIGADE GATEWAY, BESIDE METRO, MALLESWARAM WEST, BENGALURU 560055                                                        KA/BNG/1/21/100660
+KA/BNG/1/218/1042
+Tel : 080-39898969, 080-61656262                                                                          Fax : 080-30925454                                                     KA-BNGI20B1085,KABNGI20G14
+KA-BNGI20211597,KA-BNGI20F14
+STC NO: AACCC2943FSTOOL
+a — J
+SIN ———— >
+Insurance Co ; Bajaj Allianz General Insurance Company
+Payor Name : BAJA) ALLIANZ GENERAL INSURANCE COMPANY LIMITED:                                                                                         DRAFT BILL                |
+Payor GSTIN No. :
+Payor Address 7 GE PLAZA AIRPORT ROAD, , , PUNE, 411006, MAHARASHTRA
+Bill Date/Time : 21/9/2018 9:57:24AM
+Cashier Name 1 NETHRAVATHI.HS
+Debtor Code: TPABAJA]
+GLNo: =                                                                                                                                          Credit Term + 35 Day(s)
+Co.Guarantor:                                                                                                                                     Admit Date/Time ; 18/9/2018 9:10:004M
+Patient Name: jeunesse                              Discharge Date/Time 1
+MRN: YESH-0000084816                       A0000000002-YESH                                               Ward/Room/Bed/Type : THIRD FLOOR A
+WING/302/2B/3021
+Admitting/Primary                                                                                                                                              Charge Type : — InPatient
+Doctor! TEJAS SURESH RAO
+SI Description                  Batch             OrdDoe. SCH MFR_UOM             oy            Amount                           Taxable Value                 cast*               sesT*               IGST* Payable Total
+Exp Date                                                                                                                                                      Amt/Rate —Amt/Rate          Amt/Rate               Amt
+HSN/SAC Code
+HOSPITAL CHARGES
+MEDICAL SUPPLIES
+18/09/2018
+1 NEBULISER WITH             1804002 -                                        AIRW PIECE            1.09                325.89                                         325.89                   19.56                   19.56                                        365.00
+MASK-ADULT                 31/03/202                                       AY
+2020 (AIRWAYS)                 2                                                                                                                                                                                                             16.00%                   26.00%
+49/09/2018
+1 SYRINGE WITH               18D07K0S                                      NIPR_ NOS             4.00                 99.29                                        8929                    536                    536                                      100.00
+NEEDLE 10 MLX            =                                               o
+2G 15"                          31/03/202                 ed                                                                                                                                                                        6.00%                   ©5.00%
+(NIPRO)                       3
+2. SYRINGE WITH             18C30K74                                  NIPR NOS           4.00               6429                                    6428                 3.86                 3.86                                   790
+NEEDLE 5 MLX             -                                              °
+24G X 1° (NIPRO}                29/02/202                 $018                                                                                                                                                                        5.00%                   €6.00%
+3
+3 ALCOHOL SWAB              165 -                                            ‘Amar NOS             4.99                  893                                          393                    054                   ost                                       10.00
+AMARYLLIS                    3uy12/202                                       lis
+2                              3005                                                                                                                                                                         @6.00%                   96.00%
+20/09/2018
+1 IV SET (INTRAFIX            1SD18A84                                        Boa                 1.00                275.00                                       275.00                   16.50                  1650                                      308.00
+‘SAFESET) REF               44+                                             Braun
+4063001 (BRAUN)               30/04/202                 9018                                                                                                                                                                        @6.00%                   26.00%
+3
+2. SYRINGE WITH               18D07K05                                      NIPR NOS             4.90                 99.29                                        89.29                    5.36                    536                                      4100.00
+NEEDLE 10 MLX            *                                              °
+26X18"                          303/202                 so1s                                                                                                                                                                        26.00%                   6.00%
+(NIPRO)                       3
+'3 SYRINGE WITH             18C30K74                                  NIPR_ NOS           4.00               6429                                   64289.                 3.86                 386                                  72.00
+NEEDLE 5 MLX                                               °
+24G X 1° (NIPRO)                28/02/202                 9018                                                                                                                                                                        @6.00%                   6.00%
+3
+4 ALCOHOL SWAB             195 -                                         ‘Amar NOS            5.00                11.16                                      na6                  087                  0.87                                     3250
+AMARYLLIS                    34y12/202                                       lis
+2                              3005                                                                                                                                                                         €6.00%                   26.00%
+24/09/2018
+1 IV CANNULA 226             a 7Hi868d                                       BBRA NOS             1.09                259.82                                        259.82                   15.59                   15.59                                       231.00
+(VASOFIX                      46-                                               UN
+SAFETY) BRAUN                  31y08/202                 5018                                                                                                                                                                        26.00%                   86.00%
+2
+2 IVSET CINTRAFIX            18D18Ae4                                         Bo.                 1.09                275.00                                        275.00                   1650                   1650                                       308.00
+SAFESET) REF               41-                                             Braun
+4063001 (BRAUN)               3oyo4/202                 9018                                                                                                                                                                        6.00%                   6.00%
+3
+Printed By: NETHRAVATHI.HS                                                              21/09/2018 09:56:41                                                                                                               Page 1 of 6

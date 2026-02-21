@@ -1,0 +1,77 @@
+{
+  "bill_type": "IPD Bill",
+  "bill_number": null,
+  "bill_date": "2025-06-10",
+  "hospital": {
+    "name": "6/10/25, 10:50 AM                                                                         OPD/IPD Bill Receipt",
+    "address": "~ Lert Bett                      Plot no. 4, Raksha Enclave, VIP Road, Zirakpur, Distt. Mohali (PB.)",
+    "phone": null,
+    "email": null,
+    "gstin": null
+  },
+  "patient": {
+    "name": "Bill Date",
+    "age": null,
+    "dob": null,
+    "gender": null,
+    "uhid": "27997"
+  },
+  "admission": {
+    "admission_date": null,
+    "discharge_date": null,
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": "Bill",
+    "opd_number": "/IPD",
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": "Dr. Liza Gupta",
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": 300.0,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": 300.0,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": null,
+    "_warnings": [
+      "gross_total computed from all line items"
+    ]
+  },
+  "line_items": [
+    {
+      "description": "1     OPD Consultation Charges                              300.00 1",
+      "category": "Consultation",
+      "quantity": 300.0,
+      "amount": 300.0
+    }
+  ],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\IPD Bills\\2025062000216.PP1_d5aa3d7b-a81c-4c85-9cee-bc42ee3cc925.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 1.8,
+    "extracted_at": "2026-02-21T13:43:25.689080",
+    "raw_text_chars": 1959,
+    "line_items_found": 1
+  }
+}

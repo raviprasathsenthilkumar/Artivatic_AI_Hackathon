@@ -1,0 +1,67 @@
+{
+  "bill_type": "Final Bill",
+  "bill_number": "Date",
+  "bill_date": "2025-08-30",
+  "hospital": {
+    "name": ".                                           STAR Hospital",
+    "address": "OPP.BUS STAND, VASUNDHRA NAGAR,BHIWADI,DIST.ALWAR,(RAJASTHAN), Ph.: 01493-395000, CIN No.U85100HR2015PTC068610",
+    "phone": null,
+    "email": null,
+    "gstin": null
+  },
+  "patient": {
+    "name": null,
+    "age": null,
+    "dob": null,
+    "gender": null,
+    "uhid": "5639/82025"
+  },
+  "admission": {
+    "admission_date": null,
+    "discharge_date": null,
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": "1681",
+    "opd_number": null,
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": null,
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": null,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": "Rupees four thousand one hundred Only"
+  },
+  "line_items": [],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\IPD Bills\\2025090600249.PP1_1b511cae-2632-4ff1-b2aa-614e9cb7c14a.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 1.02,
+    "extracted_at": "2026-02-21T13:43:26.717831",
+    "raw_text_chars": 1640,
+    "line_items_found": 0
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "bill_type": "Final Hospital Bill",
+  "bill_number": "2939",
+  "bill_date": "2025-06-10",
+  "hospital": {
+    "name": "6/40/25, 10:50 AM                                                                         OPD/IPD Bill Receipt",
+    "address": "VCare Hospital                               VCare  Hospital                               9988836080, -   “tort a te                       Plot no. 4, Raksha Enclave, VIP Road, Zirakpur, Distt. Mohall (PB.)",
+    "phone": "(0268) 2549091-92-93",
+    "email": null,
+    "gstin": null
+  },
+  "patient": {
+    "name": "Bill Date",
+    "age": null,
+    "dob": null,
+    "gender": "Male",
+    "uhid": "27997"
+  },
+  "admission": {
+    "admission_date": null,
+    "discharge_date": "2018-40-12",
+    "ward": null,
+    "bed_number": "1111",
+    "ipd_number": "Bill",
+    "opd_number": "/IPD",
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": "Dr. Liza Gupta",
+    "department": "Hospital"
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": "Co. Ltd. Primary Doctor Dr Vinay Chauhan",
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": 750.0,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": 300.0,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": 8299.59,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": "Rupees Four Hundred Only",
+    "_warnings": [
+      "gross_total computed from all line items"
+    ]
+  },
+  "line_items": [
+    {
+      "description": "1     OPD Consultation Charges                              300.00 1",
+      "category": "Consultation",
+      "quantity": 300.0,
+      "amount": 300.0
+    },
+    {
+      "description": "12-Oct-18                       ECG (ECG-1)",
+      "category": "Other",
+      "quantity": 350.0,
+      "amount": 1.0,
+      "exc_amount": 350.0
+    },
+    {
+      "description": "13-Oct-19                         PHYSIOTHERAPY EXERCISE (PHY-4)",
+      "category": "Service Charges",
+      "quantity": 200.0,
+      "amount": 1.0,
+      "exc_amount": 200.0
+    },
+    {
+      "description": "15-Oct-18                      PHYSIOTHERAPY EXERCISE",
+      "category": "Service Charges",
+      "quantity": 200.0,
+      "amount": 2.0,
+      "exc_amount": 200.0
+    },
+    {
+      "description": "12-Oct-18                        DOLO 500MG TAB 155 (TAB)",
+      "category": "Pharmacy",
+      "quantity": 95.0,
+      "amount": 5.0,
+      "exc_amount": 4.76
+    },
+    {
+      "description": "12-Oct-18                         R 20 INJ 15 - EVANS HEALTHCARE (IN)",
+      "category": "Pharmacy",
+      "quantity": 190.0,
+      "amount": 3.0,
+      "exc_amount": 450.0
+    },
+    {
+      "description": "12-Oct-18                          NEEDLE DISPOSABLE 16 G (MCN)",
+      "category": "Pharmacy",
+      "quantity": 3.5,
+      "amount": 3.0,
+      "exc_amount": 10.5
+    },
+    {
+      "description": "12-Oct-18                      N.S.500ML (VIAFLEX)",
+      "category": "Other",
+      "quantity": 74.79,
+      "amount": 3.0,
+      "exc_amount": 215.37
+    },
+    {
+      "description": "12-Oct-18                           NEEDLE DISPOSABLE 26 G (MCN)",
+      "category": "Pharmacy",
+      "quantity": 2.5,
+      "amount": 3.0,
+      "exc_amount": 7.5
+    },
+    {
+      "description": "12-Oct-18                           ONDET (INTAS) 2ML (IN)",
+      "category": "Other",
+      "quantity": 12.29,
+      "amount": 3.0,
+      "exc_amount": 36.87
+    },
+    {
+      "description": "12-Oct-18                        ECG ELECTROD (AMBU) (MCN)",
+      "category": "Other",
+      "quantity": 22.5,
+      "amount": 5.0,
+      "exc_amount": 112.5
+    },
+    {
+      "description": "12-Oct-18                          3 ML SYRINGE - (MCN)",
+      "category": "Pharmacy",
+      "quantity": 19.0,
+      "amount": 3.0,
+      "exc_amount": 57.0
+    },
+    {
+      "description": "12-Oct-18          SAFZID T 562.5MG ING 15 (IN)",
+      "category": "Other",
+      "quantity": 519.0,
+      "amount": 4.0,
+      "exc_amount": 2076.0
+    },
+    {
+      "description": "12-Oct-18                       LV.SET (FLOVI) LV.INFUSION (MCN)",
+      "category": "Pharmacy",
+      "quantity": 231.0,
+      "amount": 1.0,
+      "exc_amount": 231.0
+    },
+    {
+      "description": "12-Oct-18                      R 20 INJ 1S - EVANS HEALTHCARE (1NJ)",
+      "category": "Pharmacy",
+      "quantity": 150.0,
+      "amount": 3.0,
+      "exc_amount": 450.0
+    },
+    {
+      "description": "12-Oct-18                      20 ML SYRINGE - (MCN)",
+      "category": "Pharmacy",
+      "quantity": 35.0,
+      "amount": 2.0,
+      "exc_amount": 70.09
+    },
+    {
+      "description": "12-Oct-18                      TAMSUNATE 60MG INJ (INJ)",
+      "category": "Pharmacy",
+      "quantity": 207.0,
+      "amount": 2.0,
+      "exc_amount": 414.0
+    },
+    {
+      "description": "12-Oct-18                         SAFZIO T 562,5MG ING 15 (IND)",
+      "category": "Other",
+      "quantity": 519.0,
+      "amount": 6.0,
+      "exc_amount": 3114.0
+    }
+  ],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Testing data\\2025062000216.PP1_d5aa3d7b-a81c-4c85-9cee-bc42ee3cc925.pdf",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 30.81,
+    "extracted_at": "2026-02-21T13:44:22.233404",
+    "raw_text_chars": 26738,
+    "line_items_found": 18
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "bill_type": "Hospital Bill",
+  "bill_number": "02616",
+  "bill_date": null,
+  "hospital": {
+    "name": "vo                   ¢  7)                                                 Sh, Hardeo Singh Memorial Hospital",
+    "address": "ao                                         220,Bank Colony, Niwari Road, Modinagar-201204, .              SHSM                                                        Helpline: 7579612300, 7579761600",
+    "phone": null,
+    "email": null,
+    "gstin": null
+  },
+  "patient": {
+    "name": "AJAY KUMAR TOMAR VISIT",
+    "age": null,
+    "dob": null,
+    "gender": "Female",
+    "uhid": "U-2966/2025"
+  },
+  "admission": {
+    "admission_date": "2025-11-03",
+    "discharge_date": null,
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": "No",
+    "opd_number": null,
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": null,
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": 1.0,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": null,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": "Total Amount Paid Rupees Only"
+  },
+  "line_items": [],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\IPD Bills\\2025110400096.PP1_d03857c9-6a49-4f96-8a3a-77a0fdf929ea.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 1.35,
+    "extracted_at": "2026-02-21T13:43:28.074691",
+    "raw_text_chars": 1976,
+    "line_items_found": 0
+  }
+}

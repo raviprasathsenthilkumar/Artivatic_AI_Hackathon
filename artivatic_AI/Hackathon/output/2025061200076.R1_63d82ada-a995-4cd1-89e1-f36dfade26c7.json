@@ -1,0 +1,67 @@
+{
+  "bill_type": "Final Bill",
+  "bill_number": null,
+  "bill_date": "2025-05-08",
+  "hospital": {
+    "name": "Firefox                                                   https://ops.rgcirc.org/front_office/bills/print_ip_summary_bill?visi...",
+    "address": "Date & Time + 08-05-2025 16:57                                          Bill No            1 1P/25-2677321, LOCATION —_: Place of supply: Delhi RGCI",
+    "phone": null,
+    "email": "info@rgcirc.org",
+    "gstin": null
+  },
+  "patient": {
+    "name": null,
+    "age": null,
+    "dob": null,
+    "gender": null,
+    "uhid": null
+  },
+  "admission": {
+    "admission_date": "2025-05-08",
+    "discharge_date": null,
+    "ward": "DAY CARE Ward",
+    "bed_number": "13259-DCR",
+    "ipd_number": null,
+    "opd_number": "Bill",
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": null,
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": 2900.0,
+    "doctor_charges": null,
+    "pharmacy_charges": 13895.77,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": 21577.0,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": null,
+    "advance_paid": 19684.0,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": "t                 pe\nSubject to Delhi Jurisdiction only"
+  },
+  "line_items": [],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\Summary Bills\\2025061200076.R1_63d82ada-a995-4cd1-89e1-f36dfade26c7.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 1.39,
+    "extracted_at": "2026-02-21T13:43:46.669738",
+    "raw_text_chars": 6231,
+    "line_items_found": 0
+  }
+}

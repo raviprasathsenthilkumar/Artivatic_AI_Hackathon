@@ -1,0 +1,55 @@
+rc                            TULIP MULTISPECIALITY HOSPITAL PVT. LTD.                Fg N
+oy                                                                    TP SCHEME 15,NEAR VIVEKANAND CHOWK                                                 f                       4
+aa                                                              DELHI ROAD SONIPAT-131001 (HR)                                              ‘
+’        NABH,
+acces
+GSTIN :- OGAAECTS671P220,
+Final Bill Detail
+Uhid No.            + 4/25.26                                                       IPD No             2 26/25
+Name             ——S               Bill No.           + IBM/223/25
+Age/Gender OSB MAE — Mobile §                                                  Bill Date                + 06/04/2025
+Ward/Room/Bed No? PRIVATE ROOM) A326 / 4                                      Admission Date: 01/04/2025        13:26
+Department          : MEDICINE                                                        Discharge Date + 06/04/2025        11:44
+Address             3 MARUTI SUZUKI, KHARKHODA, SONIPAT
+Doctor                t DR. ANURAG & DR. DHRUB & DR. RAJA & DR. POOJANGI
+Sponsor                 : MARUTI SUZUKI INDIA LTD. (CORPORATE SECTOR)
+TPA/ Insurance            MARUTI SUZUKI INDIA LTD.
+Sno, Date         Description                                    .                       Qty                Rate           Dis. Amount(Rs)
+Accomodation Charges
+1       01-04-2026 SEMI PRIVATE ROOM CHARGES (SR-001)                      5.0          2000.00           0,00 1000.00
+Sub Total                               10000,00
+}                  Consultant Visit Charges
+2 01-04-2025 DOCTOR VISIT IN ROOM (DC-002) [DR. ANURAG &              1.0            400.00            0.00 4400.00
+DR. DHRUB & DR. RAJA & DR. POOJANG! ]
+3 03-04-2025 DR. NIDHI SON ()                                               1.0           400.00          0.00 400.00
+4 05-04-2025 DR. ASHISH SEHGAL ()                                                       4.0              400.00              0,00 400,00
+Sub Total                                         5200.00
+Gastroenterology
+5 03-04-2025 GI (UPPER) ENDOSCOPY (Gastro-49) [DR. NIDHI                 1.0           5500.00            0.00 5800.00
+SONI]
+6 03-04-2025 COLONOSCOPY (FULL LENGTH) (Gastro-07) [DR.                   1.0             5500.00              0.00 5500.00
+NIDHI SONI ]
+Sub Total                              1000.00
+Investigations                                                                                                  ’
+7 01-04-2025 CBC{COMPLETE HAEMOGRAM) {LAB-0083)                       1.0             385.00            0.00 385.00
+B 01-04-2025 KFT(KIDNEY FUNCTION TEST) (LAB-0141)                         1.0             680.00            0.00 660,00
+9 01-04-2025 LFT (LIVER FUNCTION TEST) (LAB-0144)                                1.0               660.00              0.00 660.00
+10 01-04-2025 RBS (RANDOM BLOOD SUGAR ) (LAB-0059)                    1.0            77.00          0.00       77.00
+11 (01-04-2025 URINE EXAMINATION (1383)                                  1.0          100.00          0.00 100.00
+12 03-04-2025 HIV 182 (LAB-0132)                                                    1.0             440.00            0.00 440,00
+13 03-04-2025 HCV(182) (LAB-0026)                                                  41.0           1210.00            0.00 1210.00
+14 03-04-2025 HBSAG (LAB-0129)                                                     1.0             385.00            0.00 385.00
+Sub Total                                3917.00
+Radiology
+15 01-04-2025 LUMBER SPINE X-RAY (AP+ LATERAL VIEW)                          1.0               550.00              0.00 650.00
+(RAD-104)
+16 01-04-2025 PELVIS X-RAY WITH HIP JOINT (AP VIEW) (RAD-121)              10              308.00             0.00 308.00
+17 01-04-2025 CHEST X- RAY (PA VIEW) (RAD-034)                                     10               330.00              0.00 330.00
+18 02-04-2025 WHOLE ABDOMEN ULTRASOUND (RAD-06)                     1.0           1200.00           0,00 1200.00
+19 04-04-2025 ECHOCARDIOGRAPHY SCREENING (RAD-354)            1.0        1500.00        0.00 1800.00
+20 05-04-2025 PELVIS X-RAY WITH HIP JOINT (AP VIEW) (RAD-121)                1.0                308.00               0.00 308.00
+Sub Total                                        4196.00
+Pharmacy
+21 01-04-2025 MEDICINE CHARGES (MEDI1)                   et             10         16836.00           0.00 16836.00
+aesne
+DM des        , -                                                                Page 4 of 2

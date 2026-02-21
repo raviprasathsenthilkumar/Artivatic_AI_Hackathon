@@ -1,0 +1,196 @@
+{
+  "bill_type": "Hospital Bill",
+  "bill_number": null,
+  "bill_date": "2018-09-18",
+  "hospital": {
+    "name": "3 SYRINGE WITH               18D07K05                                      NIPR_ NOS             5.00                i116                                       111.61                    670                   870                                      125.00",
+    "address": "41VKIT                       0318130                                   3MIN- NOS            1,00               145.76                                    145.76                 1342                 1312                                   172.00, 5 TAZACT 4.5GM              C880196 -       RIBAH RASHID             Cipla VIAL           2.00               824.50                                    824.50                 49.48                 49.48                                   923.44",
+    "phone": null,
+    "email": null,
+    "gstin": null
+  },
+  "patient": {
+    "name": null,
+    "age": null,
+    "dob": null,
+    "gender": null,
+    "uhid": null
+  },
+  "admission": {
+    "admission_date": null,
+    "discharge_date": null,
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": null,
+    "opd_number": null,
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": null,
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": 3001.8,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": null,
+    "_warnings": [
+      "gross_total computed from all line items"
+    ]
+  },
+  "line_items": [
+    {
+      "description": "PHARMACY",
+      "category": "Pharmacy",
+      "quantity": 18.0,
+      "amount": 12.06,
+      "exc_amount": 225.0
+    },
+    {
+      "description": "GLAND                         9",
+      "category": "Other",
+      "quantity": 2.0,
+      "amount": 0.3,
+      "exc_amount": 5.65
+    },
+    {
+      "description": "GLAND                         9",
+      "category": "Other",
+      "quantity": 3.0,
+      "amount": 303.98,
+      "exc_amount": 340.02
+    },
+    {
+      "description": "ABBOTT",
+      "category": "Other",
+      "quantity": 4.0,
+      "amount": 49.48,
+      "exc_amount": 923.44
+    },
+    {
+      "description": "AZOBACTAM)",
+      "category": "Other",
+      "amount": 6.0,
+      "exc_amount": 6.0
+    },
+    {
+      "description": "AZOBACTAM)",
+      "category": "Other",
+      "amount": 1.91,
+      "exc_amount": 35.52
+    },
+    {
+      "description": "CHLORIDE)",
+      "category": "Other",
+      "amount": 25.0,
+      "exc_amount": 6.0
+    },
+    {
+      "description": "EUROFLEX",
+      "category": "Other",
+      "quantity": 9.0,
+      "amount": 3.98,
+      "exc_amount": 74.25
+    },
+    {
+      "description": "CHLORIDE)",
+      "category": "Other",
+      "amount": 6.0,
+      "exc_amount": 26.0
+    },
+    {
+      "description": "EUROFLEX",
+      "category": "Other",
+      "quantity": 10.0,
+      "amount": 6.0,
+      "exc_amount": 26.0
+    },
+    {
+      "description": "CHLORIDE)",
+      "category": "Other",
+      "amount": 1.0,
+      "exc_amount": 78.0
+    },
+    {
+      "description": "DENIS:",
+      "category": "Other",
+      "quantity": 12.0,
+      "amount": 1.0,
+      "exc_amount": 78.0
+    },
+    {
+      "description": "E) SAMARTH                       0",
+      "category": "Other",
+      "quantity": 13.0,
+      "amount": 5.61,
+      "exc_amount": 104.76
+    },
+    {
+      "description": "REDDYS",
+      "category": "Other",
+      "quantity": 14.0,
+      "amount": 3.0,
+      "exc_amount": 45.6
+    },
+    {
+      "description": "BROMIDE+SALBU",
+      "category": "Other",
+      "amount": 6.0,
+      "exc_amount": 26.0
+    },
+    {
+      "description": "FEXOFENADINE)              0",
+      "category": "Other",
+      "amount": 26.0,
+      "exc_amount": 26.0
+    },
+    {
+      "description": "GLAND                         9",
+      "category": "Other",
+      "quantity": 2.0,
+      "amount": 49.48,
+      "exc_amount": 923.56
+    },
+    {
+      "description": "AZOBACTAM)",
+      "category": "Other",
+      "amount": 6.0,
+      "exc_amount": 26.0
+    },
+    {
+      "description": "VERITAZ",
+      "category": "Other",
+      "quantity": 3.0,
+      "amount": 6.0,
+      "exc_amount": 26.0
+    }
+  ],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\Detailed hospital bill\\2042485-05.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 2.27,
+    "extracted_at": "2026-02-21T13:42:34.301408",
+    "raw_text_chars": 12224,
+    "line_items_found": 19
+  }
+}

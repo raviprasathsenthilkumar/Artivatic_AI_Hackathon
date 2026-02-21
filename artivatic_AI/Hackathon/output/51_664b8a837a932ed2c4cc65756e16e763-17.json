@@ -1,0 +1,74 @@
+{
+  "bill_type": "Hospital Bill",
+  "bill_number": "2122016087B",
+  "bill_date": "2021-05-24",
+  "hospital": {
+    "name": "/                             MATA ROOP RANI MAGGO Hospital",
+    "address": ".                                        C-9, OM VIHAR, PHASE-1, UTTAM NAGAR, METRO PILLAR NO. 709 NEW DELHI-110059, Hope And Excellence                                   HELP NUMBER- 011-61290000 , 9555059059",
+    "phone": "2537-2230 2537-2227)",
+    "email": "tarmmhospital@yahoo.in",
+    "gstin": null
+  },
+  "patient": {
+    "name": null,
+    "age": null,
+    "dob": null,
+    "gender": null,
+    "uhid": null
+  },
+  "admission": {
+    "admission_date": null,
+    "discharge_date": null,
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": null,
+    "opd_number": null,
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": null,
+    "department": "GENERAL SURGERY"
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": 15000.0,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": 15000.0,
+    "amount_in_words": "Fifteen Thousand Rupees only"
+  },
+  "line_items": [
+    {
+      "description": "CATEGORY                              : GENERAL",
+      "category": "Other",
+      "amount": 15000.0,
+      "exc_amount": 15000.0
+    }
+  ],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\OPD Bills\\51_664b8a837a932ed2c4cc65756e16e763-17.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 1.52,
+    "extracted_at": "2026-02-21T13:43:36.836920",
+    "raw_text_chars": 2119,
+    "line_items_found": 1
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "bill_type": "Hospitalisation Charges",
+  "bill_number": null,
+  "bill_date": null,
+  "hospital": {
+    "name": "SUNSHINE HOSPITALS",
+    "address": "A                 Laxmi Sagar Square, Puri- Cuttack Road, 2) re                   Bhubaneswar.Odisha - 751006",
+    "phone": "0674-2571 188, 0674-25733",
+    "email": null,
+    "gstin": null
+  },
+  "patient": {
+    "name": null,
+    "age": null,
+    "dob": null,
+    "gender": null,
+    "uhid": null
+  },
+  "admission": {
+    "admission_date": "2018-08-26",
+    "discharge_date": "2018-09-03",
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": null,
+    "opd_number": null,
+    "los_days": 8
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": null,
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": 126249.94,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": 144399.94,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": null,
+    "_warnings": [
+      "gross_total computed from section totals"
+    ]
+  },
+  "line_items": [
+    {
+      "description": "SER00083 APTT(ACTIVATED PARTIAL THROMBOPLASTIN TIME)",
+      "category": "Lab / Diagnostics",
+      "quantity": 1.0,
+      "amount": 470.0,
+      "exc_amount": 470.0
+    },
+    {
+      "description": "SER02069 BLOOD GROUPING AND RH",
+      "category": "Lab / Diagnostics",
+      "quantity": 1.0,
+      "amount": 410.0,
+      "exc_amount": 110.0
+    },
+    {
+      "description": "SER02070 CBC(COMPLETE BLOOD COUNT)",
+      "category": "Lab / Diagnostics",
+      "quantity": 5.0,
+      "amount": 330.0,
+      "exc_amount": 4650.0
+    },
+    {
+      "description": "SER00719 DC (DIFFERENTIAL COUNTS)",
+      "category": "Other",
+      "quantity": 1.0,
+      "amount": 100.0,
+      "exc_amount": 100.0
+    },
+    {
+      "description": "SER01424 PT (PROTHROMBIN TEST) WITH INR",
+      "category": "Lab / Diagnostics",
+      "quantity": 3.0,
+      "amount": 360.0,
+      "exc_amount": 1080.0
+    },
+    {
+      "description": "SER01809 TC (TOTAL LEUCOCYTE COUNT)",
+      "category": "Lab / Diagnostics",
+      "quantity": 1.0,
+      "amount": 160.0,
+      "exc_amount": 150.0
+    },
+    {
+      "description": "$SER00580 BLOOD CULTURE (BACT / ALERT VITEG IDENTIFICATION)",
+      "category": "Lab / Diagnostics",
+      "quantity": 1.0,
+      "amount": 1330.0,
+      "exc_amount": 1330.0
+    },
+    {
+      "description": "SER02081 ET SECRETION FOR CULTURE AND SENSITIVITY",
+      "category": "Lab / Diagnostics",
+      "quantity": 4.0,
+      "amount": 450.0,
+      "exc_amount": 450.0
+    },
+    {
+      "description": "SER01415 MRI BRAIN",
+      "category": "Radiology",
+      "quantity": 1.0,
+      "amount": 9770.0,
+      "exc_amount": 9770.0
+    },
+    {
+      "description": "SER01886 HCV (HEPATITIS C)",
+      "category": "Lab / Diagnostics",
+      "quantity": 4.0,
+      "amount": 970.0,
+      "exc_amount": 870.0
+    },
+    {
+      "description": "SER00823 HIV I/II (SPOT)",
+      "category": "Lab / Diagnostics",
+      "quantity": 1.0,
+      "amount": 480.0,
+      "exc_amount": 480.0
+    },
+    {
+      "description": "SER03166 TRACHEOSTOMY CHARGE",
+      "category": "Service Charges",
+      "quantity": 1.0,
+      "amount": 5750.0,
+      "exc_amount": 5750.0
+    },
+    {
+      "description": "SER01164 BED SIDE X-RAY CHEST AP",
+      "category": "Radiology",
+      "quantity": 4.0,
+      "amount": 620.0,
+      "exc_amount": 2480.0
+    },
+    {
+      "description": "SER00688 ALPHA BED PER DAY:",
+      "category": "Service Charges",
+      "quantity": 8.0,
+      "amount": 690.0,
+      "exc_amount": 5520.0
+    },
+    {
+      "description": "SER00187 BLOOD TRANSFUSION CHARGES-PER UNIT",
+      "category": "Service Charges",
+      "quantity": 5.0,
+      "amount": 420.0,
+      "exc_amount": 2100.0
+    },
+    {
+      "description": "SER00944 FLOWTRON PER DAY",
+      "category": "Service Charges",
+      "quantity": 3.0,
+      "amount": 2370.0,
+      "exc_amount": 7110.0
+    },
+    {
+      "description": "SER01235 NEBULISATION CHARGES                                  aS           4",
+      "category": "Service Charges",
+      "quantity": 30.0,
+      "amount": 140.0,
+      "exc_amount": 4200.0
+    },
+    {
+      "description": "SER02045 HAEMO DIALYSIS HDU/MICU/SICU/CTICU .             NepreSS",
+      "category": "Service Charges",
+      "quantity": 4.0,
+      "amount": 6076.0,
+      "exc_amount": 24300.0
+    },
+    {
+      "description": "SER02742 PHYSIOTHERAPY - (SICU-MICU-ICCU-HDU-NICU-CTICU)",
+      "category": "Service Charges",
+      "quantity": 1.0,
+      "amount": 400.0,
+      "exc_amount": 400.0
+    },
+    {
+      "description": "HAEMATOLOGY (section total)",
+      "category": "Lab / Diagnostics",
+      "amount": 3560.0,
+      "is_section_total": true
+    },
+    {
+      "description": "MICRO BIOLOGY (section total)",
+      "category": "Other",
+      "amount": 2230.0,
+      "is_section_total": true
+    },
+    {
+      "description": "MRI SCAN (section total)",
+      "category": "Radiology",
+      "amount": 9770.0,
+      "is_section_total": true
+    },
+    {
+      "description": "PATHOLOGY (section total)",
+      "category": "Lab / Diagnostics",
+      "amount": 110.0,
+      "is_section_total": true
+    },
+    {
+      "description": "XRAY (section total)",
+      "category": "Radiology",
+      "amount": 2480.0,
+      "is_section_total": true
+    },
+    {
+      "description": "PHARMACY (section total)",
+      "category": "Pharmacy",
+      "amount": 126249.94,
+      "is_section_total": true
+    },
+    {
+      "description": "SERVICE CHARGES",
+      "category": "Service Charges",
+      "amount": 140.0,
+      "exc_amount": 4200.0
+    },
+    {
+      "description": "PHARMACY",
+      "category": "Pharmacy",
+      "amount": 430.0,
+      "exc_amount": 430.0
+    }
+  ],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\Detailed hospital bill\\1981063-2.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 2.61,
+    "extracted_at": "2026-02-21T13:42:29.945454",
+    "raw_text_chars": 7381,
+    "line_items_found": 27
+  }
+}

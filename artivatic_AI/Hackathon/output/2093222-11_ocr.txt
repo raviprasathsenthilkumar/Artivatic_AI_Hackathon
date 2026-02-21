@@ -1,0 +1,32 @@
+1 NEURO                                         (—]                                    1.00              480.00                                   480.00                                                                               480.00
+EXCERCISES IN                             (—)
+PATIENT
+10/10/2018
+1 NEURO                                       a j                                    1.00              480.00                                    480.00                                                                               480.00
+EXCERCISES IN
+PATIENT
+2. NEURO                                                                                                         1.00                 480.00                                         480.00                                                                                           480.00
+EXCERCISES IN
+PATIENT
+SubTotal ;            1440.00                               1440.00                0.00                0.00               2.00                1449.00
+Amount Before Tax                                                                                Tax                               ‘Amount Payable
+Amt
+Grand Total                                                7750.23                                                                                   1016.16                                            78,766.01
+Rounded Off Value                                                                                                                                                                                                                      -
+78766.00
+Tax Breakup **                                                                                                                                                                                                                                                               ~~
+eGsT*;                            508.08
+SGST*:                                          508.08
+Iost*:                                              0.00                                                                                                                                                               Dac. Amount                                                   Allocated Amount
+Total +                           1016.16
+LESS Total Credit Note +                                                                                   9.00
+78766.00
+ADD Total Debit note :                                                                       0.00
+78766.00
+LESS Payment +                                                      0.00
+Balance Payable / (Refundable) :                                                                                 7876.00
+* CGST, SGST, IGST values includes Cess values where applicable
+END OF STATEMENT
+All cheque payments should be made to COLUMBIA ASIA HOSPITALS PVT. LTD
+This is a computer generated bill and hence no signature required
+Printed By :  VARSHA.S.W                                                          11/10/2018 13:05:05                                                                                             Page 8 of 8

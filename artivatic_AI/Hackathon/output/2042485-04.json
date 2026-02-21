@@ -1,0 +1,78 @@
+{
+  "bill_type": "Hospital Bill",
+  "bill_number": null,
+  "bill_date": "2018-09-18",
+  "hospital": {
+    "name": "COLUMBIAASIA                                      cst + ara",
+    "address": "KST: : 02447277, COLUMBIA ASIA REFERRAL Hospital-YESHWANTHPUR,                                                                            TIN NO. : 29310803632",
+    "phone": "080-39898969, 080-6165626",
+    "email": null,
+    "gstin": null
+  },
+  "patient": {
+    "name": "jeunesse",
+    "age": null,
+    "dob": null,
+    "gender": null,
+    "uhid": null
+  },
+  "admission": {
+    "admission_date": null,
+    "discharge_date": null,
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": null,
+    "opd_number": null,
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": null,
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": "Company",
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": 100.0,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": null,
+    "_warnings": [
+      "gross_total computed from all line items"
+    ]
+  },
+  "line_items": [
+    {
+      "description": "MEDICAL SUPPLIES",
+      "category": "Other",
+      "quantity": 18.0,
+      "amount": 99.29,
+      "exc_amount": 100.0
+    }
+  ],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\Discharge Bills\\2042485-04.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 2.26,
+    "extracted_at": "2026-02-21T13:42:53.326360",
+    "raw_text_chars": 8593,
+    "line_items_found": 1
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "bill_type": "Final Bill",
+  "bill_number": "RNPO82600",
+  "bill_date": "2018-10-07",
+  "hospital": {
+    "name": "| PHADNIS CLINIC PVT. LTD.              |  ‘Qn",
+    "address": "“ , 4871-75, Ganeshkhind Road, Shivaji Nagar, Pune - 05 @ Tel,: +91-20-67216600 / 67216699                         ~~         ., foo            DETAILED FINAw 72225724                        O)   aa",
+    "phone": null,
+    "email": null,
+    "gstin": null
+  },
+  "patient": {
+    "name": null,
+    "age": null,
+    "dob": null,
+    "gender": null,
+    "uhid": null
+  },
+  "admission": {
+    "admission_date": "2018-10-07",
+    "discharge_date": "2018-10-12",
+    "ward": "PROCEDURE",
+    "bed_number": null,
+    "ipd_number": null,
+    "opd_number": null,
+    "los_days": 5
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": null,
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": 7501.0,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": null,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": null
+  },
+  "line_items": [],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\Final Bills\\2090022-final bill-1 (1).jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 2.11,
+    "extracted_at": "2026-02-21T13:43:09.752138",
+    "raw_text_chars": 4441,
+    "line_items_found": 0
+  }
+}

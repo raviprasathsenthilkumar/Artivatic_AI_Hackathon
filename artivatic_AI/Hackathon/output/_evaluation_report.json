@@ -1,0 +1,73 @@
+{
+  "generated_at": "2026-02-21T13:49:10.753504",
+  "timing": {
+    "total_files": 55,
+    "total_s": 243.57,
+    "avg_s": 4.43,
+    "min_s": 0.75,
+    "max_s": 34.95,
+    "p50_s": 1.67,
+    "p90_s": 2.61
+  },
+  "cost": {
+    "total_usd": 0.0,
+    "per_doc": 0.0,
+    "engine": "tesseract_local"
+  },
+  "code_quality": {
+    "file": "hospital_bill_extractor.py",
+    "line_metrics": {
+      "total_lines": 1235,
+      "code_lines": 1003,
+      "comment_lines": 52,
+      "blank_lines": 180,
+      "comment_ratio": 5.2
+    },
+    "function_metrics": {
+      "functions": 35,
+      "classes": 0,
+      "documented_funcs": 35,
+      "documentation_pct": 100.0
+    },
+    "avg_lines_per_fn": 28.7,
+    "maintainability": 85.0
+  },
+  "scores": {
+    "Accuracy": 88.89,
+    "Line-Item Accuracy": 50.0,
+    "Cost Efficiency": 100.0,
+    "Response Time": 92.62,
+    "Code Quality": 85.0
+  },
+  "overall_score": 83.3,
+  "accuracy": {
+    "TP": 6,
+    "TN": 10,
+    "FP": 1,
+    "FN": 1,
+    "overall_pct": 88.89,
+    "precision_pct": 85.71,
+    "recall_pct": 85.71,
+    "f1_pct": 85.71,
+    "threshold_met": false
+  },
+  "per_document": [
+    {
+      "file": "1981063-2.json",
+      "time_s": 2.61,
+      "TP": 6,
+      "TN": 10,
+      "FP": 1,
+      "FN": 1,
+      "accuracy": 88.89,
+      "f1": 85.71
+    }
+  ],
+  "line_item_accuracy": {
+    "gt_count": 34,
+    "extracted_count": 27,
+    "matched": 17,
+    "missed": 17,
+    "spurious": 10
+  }
+}

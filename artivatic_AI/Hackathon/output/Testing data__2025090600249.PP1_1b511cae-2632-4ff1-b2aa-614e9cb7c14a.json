@@ -1,0 +1,214 @@
+{
+  "bill_type": "Final Bill",
+  "bill_number": "Date",
+  "bill_date": "2025-02-05",
+  "hospital": {
+    "name": ".                                      STAR Hospital",
+    "address": "OPP.BUS STAND, VASUNDHRA NAGAR,BHIWADI,DIST.ALWAR,(RAJASTHAN), Ph.: 01493-395000, CIN No.U85100HR2015PTC068610",
+    "phone": "0484 2555344,",
+    "email": "sjhmanjummel@gmail.cam",
+    "gstin": null
+  },
+  "patient": {
+    "name": "Consultant",
+    "age": 2,
+    "dob": null,
+    "gender": null,
+    "uhid": "400035263"
+  },
+  "admission": {
+    "admission_date": "2025-05-08",
+    "discharge_date": null,
+    "ward": "DAY CARE Ward",
+    "bed_number": null,
+    "ipd_number": "1681",
+    "opd_number": "Bill",
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": "Dr. GANESH KSHIRSAGAR",
+    "department": "REFRENCE RANGE"
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": "Name",
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": 2700.0,
+    "doctor_charges": null,
+    "pharmacy_charges": 13805.77,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": 2048.95,
+    "discount": null,
+    "cgst": null,
+    "sgst": 6.0,
+    "igst": null,
+    "gross_total": 2294.82,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": 2800.0,
+    "amount_in_words": "Rupees four thousand one hundred Only"
+  },
+  "line_items": [
+    {
+      "description": "_                    BO",
+      "category": "Other",
+      "quantity": 0.0,
+      "amount": 25.0
+    },
+    {
+      "description": "NEEDLE 1D. ML          -                                          0",
+      "category": "Pharmacy",
+      "amount": 148.36,
+      "exc_amount": 192.8
+    },
+    {
+      "description": "PHARMACY",
+      "category": "Pharmacy",
+      "quantity": 19.0,
+      "amount": 12.06,
+      "exc_amount": 225.0
+    },
+    {
+      "description": "GLAND                       4",
+      "category": "Other",
+      "quantity": 2.0,
+      "amount": 6.3,
+      "exc_amount": 5.65
+    },
+    {
+      "description": "GLAND                      9",
+      "category": "Other",
+      "quantity": 3.0,
+      "amount": 18.22,
+      "exc_amount": 340.02
+    },
+    {
+      "description": "ABBQTT",
+      "category": "Other",
+      "amount": 93.48,
+      "exc_amount": 923.44
+    },
+    {
+      "description": "AZOBACTAM)",
+      "category": "Other",
+      "amount": 85.0,
+      "exc_amount": 86.0
+    },
+    {
+      "description": "AZOBACTAM)",
+      "category": "Other",
+      "amount": 0.94,
+      "exc_amount": 35.52
+    },
+    {
+      "description": "BUROFLEX",
+      "category": "Other",
+      "amount": 6.29,
+      "exc_amount": 3.98
+    },
+    {
+      "description": "CHLORIDE)",
+      "category": "Other",
+      "amount": 3.98,
+      "exc_amount": 26.0
+    },
+    {
+      "description": "FPURDFLEX",
+      "category": "Other",
+      "quantity": 10.0,
+      "amount": 3.98,
+      "exc_amount": 26.0
+    },
+    {
+      "description": "E) SAMARTH                 D",
+      "category": "Other",
+      "quantity": 113.0,
+      "amount": 93.54,
+      "exc_amount": 104.76
+    },
+    {
+      "description": "REDDYS",
+      "category": "Other",
+      "quantity": 14.0,
+      "amount": 3.08,
+      "exc_amount": 45.6
+    },
+    {
+      "description": "BROMIDE+SALBLI",
+      "category": "Other",
+      "amount": 45.6,
+      "exc_amount": 706.0
+    },
+    {
+      "description": "FEXOFENADINE)            0",
+      "category": "Other",
+      "amount": 90.0,
+      "exc_amount": 6.0
+    },
+    {
+      "description": "EXCERCISES IN",
+      "category": "Other",
+      "amount": 1.0,
+      "exc_amount": 480.5
+    },
+    {
+      "description": "EXCERCTISES IN",
+      "category": "Other",
+      "amount": 1016.16,
+      "exc_amount": 78768.01
+    },
+    {
+      "description": "LABORATORY SERVICES",
+      "category": "Other",
+      "amount": 206.0,
+      "exc_amount": 206.0
+    },
+    {
+      "description": "L042 S02/ 31-03-2027 (30049099)",
+      "category": "Other",
+      "amount": 204.2,
+      "exc_amount": 43.4
+    },
+    {
+      "description": "ER             :",
+      "category": "Other",
+      "amount": 210000.0,
+      "exc_amount": 10000.0
+    },
+    {
+      "description": "Monitoring Charges Minor",
+      "category": "Service Charges",
+      "quantity": 1.0,
+      "amount": 1280.0,
+      "exc_amount": 41280.0
+    }
+  ],
+  "payments": [
+    {
+      "mode": "Cash",
+      "amount": 71000.0
+    },
+    {
+      "mode": "Card",
+      "amount": 10000.0
+    },
+    {
+      "mode": "UPI",
+      "amount": 89.0
+    }
+  ],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Testing data\\2025090600249.PP1_1b511cae-2632-4ff1-b2aa-614e9cb7c14a.pdf",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 34.95,
+    "extracted_at": "2026-02-21T13:44:57.183639",
+    "raw_text_chars": 50805,
+    "line_items_found": 21
+  }
+}

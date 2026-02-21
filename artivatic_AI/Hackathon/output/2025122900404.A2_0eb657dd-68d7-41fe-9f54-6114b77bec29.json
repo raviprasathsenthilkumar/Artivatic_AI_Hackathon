@@ -1,0 +1,67 @@
+{
+  "bill_type": "Final Bill",
+  "bill_number": null,
+  "bill_date": null,
+  "hospital": {
+    "name": "@.         Radhaswami Multispeciality Hospital",
+    "address": ">-      Opp. New Bus Stand, B/h.Trimurti Complex, Pij Bhago!, NADIAD-387001., Dr, Pinky Kataria                             Phone : (0268) 2549091-82-93           FINAL BILL",
+    "phone": "(0268) 2549091-82-93",
+    "email": null,
+    "gstin": null
+  },
+  "patient": {
+    "name": "Visit Charge                      Seo XS",
+    "age": null,
+    "dob": null,
+    "gender": null,
+    "uhid": null
+  },
+  "admission": {
+    "admission_date": null,
+    "discharge_date": null,
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": null,
+    "opd_number": null,
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": null,
+    "department": "Hospital"
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": 22.0,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": null,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": null
+  },
+  "line_items": [],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\Summary Bills\\2025122900404.A2_0eb657dd-68d7-41fe-9f54-6114b77bec29.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 1.24,
+    "extracted_at": "2026-02-21T13:43:51.421050",
+    "raw_text_chars": 2436,
+    "line_items_found": 0
+  }
+}

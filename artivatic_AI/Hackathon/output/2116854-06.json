@@ -1,0 +1,267 @@
+{
+  "bill_type": "Hospital Bill",
+  "bill_number": null,
+  "bill_date": null,
+  "hospital": {
+    "name": "CR. No.            ISHHI297212              Bill No,                                       Date:",
+    "address": "CR. No.            ISHHI297212              Bill No,                                       Date:",
+    "phone": null,
+    "email": null,
+    "gstin": null
+  },
+  "patient": {
+    "name": null,
+    "age": null,
+    "dob": null,
+    "gender": null,
+    "uhid": null
+  },
+  "admission": {
+    "admission_date": null,
+    "discharge_date": null,
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": null,
+    "opd_number": null,
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": null,
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": 7389.18,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": null,
+    "_warnings": [
+      "gross_total computed from all line items"
+    ]
+  },
+  "line_items": [
+    {
+      "description": "12-Oct-18                          ECG (ECG-1)",
+      "category": "Other",
+      "quantity": 350.0,
+      "amount": 1.0,
+      "exc_amount": 350.0
+    },
+    {
+      "description": "13-Oct-18                          PHYSIOTHERAPY EXERCISE (PHY-4)",
+      "category": "Service Charges",
+      "quantity": 200.0,
+      "amount": 1.0,
+      "exc_amount": 200.0
+    },
+    {
+      "description": "14-Oct-18                          PHYSIOTHERAPY EXERCISE",
+      "category": "Service Charges",
+      "quantity": 200.0,
+      "amount": 1.0,
+      "exc_amount": 200.0
+    },
+    {
+      "description": "15-Oct-18                          PHYSIOTHERAPY EXERCISE",
+      "category": "Service Charges",
+      "quantity": 200.0,
+      "amount": 2.0,
+      "exc_amount": 200.0
+    },
+    {
+      "description": "12-Oct-18                      DOLO SOOMG TAB 15S (TAB)",
+      "category": "Pharmacy",
+      "quantity": 0.95,
+      "amount": 5.0,
+      "exc_amount": 4.76
+    },
+    {
+      "description": "12-Oct-18                      R 20 IN] 15 - EVANS HEALTHCARE (INJ)",
+      "category": "Other",
+      "quantity": 150.0,
+      "amount": 3.0,
+      "exc_amount": 450.0
+    },
+    {
+      "description": "12-Oct-18                      1.V.SET (FLOVI) I.V.INFUSION (MCN)",
+      "category": "Pharmacy",
+      "quantity": 231.0,
+      "amount": 1.0,
+      "exc_amount": 231.0
+    },
+    {
+      "description": "12-Oct-18                         NEEDLE DISPOSABLE 16 G (MCN)",
+      "category": "Pharmacy",
+      "quantity": 3.5,
+      "amount": 3.0,
+      "exc_amount": 40.5
+    },
+    {
+      "description": "12-0ct-18                      5 ML SYRINGE - (MCN)",
+      "category": "Pharmacy",
+      "quantity": 23.0,
+      "amount": 5.0,
+      "exc_amount": 115.0
+    },
+    {
+      "description": "12-Oct-18                   KABIPARA 1000MG INJ 100ML (INJ)",
+      "category": "Pharmacy",
+      "quantity": 308.0,
+      "amount": 1.0,
+      "exc_amount": 308.0
+    },
+    {
+      "description": "12-Oct-18                          N.S.SOOML (VIAFLEX)",
+      "category": "Other",
+      "quantity": 71.79,
+      "amount": 3.0,
+      "exc_amount": 215.37
+    },
+    {
+      "description": "12-Oct-18                          NEEDLE DISPOSABLE 26 G (MCN)",
+      "category": "Pharmacy",
+      "quantity": 2.5,
+      "amount": 3.0,
+      "exc_amount": 7.5
+    },
+    {
+      "description": "12-Oct-18                        ONDET (INTAS) 2ML (IND)",
+      "category": "Other",
+      "quantity": 12.29,
+      "amount": 3.0,
+      "exc_amount": 36.87
+    },
+    {
+      "description": "12-Oct-18                           10 ML SYRINGE - (MCN)",
+      "category": "Pharmacy",
+      "quantity": 35.0,
+      "amount": 5.0,
+      "exc_amount": 175.0
+    },
+    {
+      "description": "12-Oct-18                      ISOLYTE M SOOML (IV F)",
+      "category": "Pharmacy",
+      "quantity": 118.59,
+      "amount": 2.0,
+      "exc_amount": 237.18
+    },
+    {
+      "description": "12-Oct-18                          N.S.200ML EUROLINE (LIFEPORT) (IV F)",
+      "category": "Pharmacy",
+      "quantity": 35.52,
+      "amount": 2.0,
+      "exc_amount": 71.04
+    },
+    {
+      "description": "12-Oct-18                          ‘TAMSUNATE 60MG IN} (1NJ)",
+      "category": "Other",
+      "quantity": 207.0,
+      "amount": 3.0,
+      "exc_amount": 621.0
+    },
+    {
+      "description": "12-Oct-18                          LLV.CANNULA NO.20G (B.D) (MCN)",
+      "category": "Nursing",
+      "quantity": 132.0,
+      "amount": 1.0,
+      "exc_amount": 132.0
+    },
+    {
+      "description": "42-Oct-18                          SAFZID T 562.SMG ING 15 (INJ)",
+      "category": "Other",
+      "quantity": 519.0,
+      "amount": 4.0,
+      "exc_amount": 2076.0
+    },
+    {
+      "description": "12-Oct-18                       ONDET (INTAS) 2ML (INI)",
+      "category": "Other",
+      "quantity": 12.29,
+      "amount": 2.0,
+      "exc_amount": 12.29
+    },
+    {
+      "description": "12-Oct-18                          R.L.SOOML (IVF)",
+      "category": "Other",
+      "quantity": 47.7,
+      "amount": 1.0,
+      "exc_amount": 47.7
+    },
+    {
+      "description": "12-Oct-18                       PRATOZOLE 40MG IN) - (NJ)",
+      "category": "Other",
+      "quantity": 45.2,
+      "amount": 1.0,
+      "exc_amount": 45.2
+    },
+    {
+      "description": "12-Oct-18                       5 ML SYRINGE = (MCN}",
+      "category": "Pharmacy",
+      "quantity": 23.0,
+      "amount": 4.0,
+      "exc_amount": 92.0
+    },
+    {
+      "description": "12-Oct-18                         LV.SET (FLOVI) LV.INFUSION (MCN)",
+      "category": "Pharmacy",
+      "quantity": 231.0,
+      "amount": 1.0,
+      "exc_amount": 231.0
+    },
+    {
+      "description": "12-Oct-18                        ISOLYTE M SOOML (LV F)",
+      "category": "Other",
+      "quantity": 118.59,
+      "amount": 3.0,
+      "exc_amount": 355.77
+    },
+    {
+      "description": "12-Oct-18                       R 20 INJ 2S ~ EVANS HEALTHCARE (IN)",
+      "category": "Pharmacy",
+      "quantity": 150.0,
+      "amount": 3.0,
+      "exc_amount": 450.0
+    },
+    {
+      "description": "12-Oct-18                         10 ML SYRINGE - (MCN)",
+      "category": "Pharmacy",
+      "quantity": 35.0,
+      "amount": 2.0,
+      "exc_amount": 70.0
+    },
+    {
+      "description": "12-Oct-18                          TAMSUNATE 60MG IND (IND)",
+      "category": "Other",
+      "quantity": 207.0,
+      "amount": 2.0,
+      "exc_amount": 414.0
+    }
+  ],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\Discharge Bills\\2116854-06.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 2.54,
+    "extracted_at": "2026-02-21T13:42:59.738309",
+    "raw_text_chars": 6186,
+    "line_items_found": 28
+  }
+}

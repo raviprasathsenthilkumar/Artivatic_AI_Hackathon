@@ -1,0 +1,67 @@
+{
+  "bill_type": "OPD Bill",
+  "bill_number": null,
+  "bill_date": null,
+  "hospital": {
+    "name": ".                                                            ASHOK Hospital |",
+    "address": "P B Road.Near New City Corporation Subhast Nagar Belgaum-530016                                 a, PHONE No (0831)-2471288 2471568                                                          it",
+    "phone": null,
+    "email": null,
+    "gstin": null
+  },
+  "patient": {
+    "name": null,
+    "age": null,
+    "dob": null,
+    "gender": null,
+    "uhid": null
+  },
+  "admission": {
+    "admission_date": null,
+    "discharge_date": null,
+    "ward": null,
+    "bed_number": null,
+    "ipd_number": null,
+    "opd_number": "Bill",
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [],
+    "attending_doctor": null,
+    "department": null
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": null,
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": null,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": null,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": "Rupees Four Hundred Only"
+  },
+  "line_items": [],
+  "payments": [],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Sample data\\OPD Bills\\31_571b46a670322c2ff61a1390ede6420a-37.jpg",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 0.75,
+    "extracted_at": "2026-02-21T13:43:31.334874",
+    "raw_text_chars": 1185,
+    "line_items_found": 0
+  }
+}

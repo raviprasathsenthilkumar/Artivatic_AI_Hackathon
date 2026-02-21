@@ -1,0 +1,95 @@
+{
+  "bill_type": "Summary Bill",
+  "bill_number": "17913",
+  "bill_date": "2025-02-05",
+  "hospital": {
+    "name": ".     _ fF _          _ ap   y                               -  _",
+    "address": "Ness Veractil (Near Vyjayaieda}, Teen al Gumus Bhi. RRO. Ph CUECEGN, wee lee aan een eee nee nnn deere ned near ee ree cee sneer nen ee cewen MEUARE COMPAR ITED",
+    "phone": "8898988894",
+    "email": "CEST@2.5",
+    "gstin": null
+  },
+  "patient": {
+    "name": "Co",
+    "age": null,
+    "dob": null,
+    "gender": "Female",
+    "uhid": "U-2966/2025"
+  },
+  "admission": {
+    "admission_date": "2025-02-03",
+    "discharge_date": "2018-40-12",
+    "ward": "S CONSULTA",
+    "bed_number": null,
+    "ipd_number": "Summary",
+    "opd_number": "VISIT",
+    "los_days": null
+  },
+  "clinical": {
+    "diagnosis": [
+      "TKR      :"
+    ],
+    "attending_doctor": "Dr. Physician",
+    "department": "Total Amount       oO"
+  },
+  "insurance": {
+    "tpa_name": null,
+    "insurance_company": "Name t",
+    "policy_number": null,
+    "cashless": false
+  },
+  "charges_summary": {
+    "room_charges": 750.0,
+    "doctor_charges": null,
+    "pharmacy_charges": null,
+    "lab_charges": null,
+    "ot_charges": null,
+    "nursing_charges": null,
+    "subtotal": null,
+    "discount": null,
+    "cgst": null,
+    "sgst": null,
+    "igst": null,
+    "gross_total": 79988.93,
+    "advance_paid": null,
+    "tpa_deduction": null,
+    "balance_due": null,
+    "amount_in_words": "Elghty One Thousand Eighty Nine only"
+  },
+  "line_items": [
+    {
+      "description": "ER             :",
+      "category": "Other",
+      "amount": 210000.0,
+      "exc_amount": 10000.0
+    },
+    {
+      "description": "MEDICAL SUPPLIES",
+      "category": "Other",
+      "amount": 5.36,
+      "exc_amount": 100.4
+    }
+  ],
+  "payments": [
+    {
+      "mode": "Cash",
+      "amount": 71000.0
+    },
+    {
+      "mode": "Card",
+      "amount": 10000.0
+    },
+    {
+      "mode": "UPI",
+      "amount": 89.0
+    }
+  ],
+  "_meta": {
+    "source_file": "C:\\Users\\ravip\\OneDrive\\Desktop\\artivatic_AI\\Hackathon\\Testing data\\int-1.pdf",
+    "ocr_engine": "tesseract",
+    "processing_time_s": 32.32,
+    "extracted_at": "2026-02-21T13:46:00.322275",
+    "raw_text_chars": 34393,
+    "line_items_found": 2
+  }
+}

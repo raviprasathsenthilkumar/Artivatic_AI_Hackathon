@@ -1,0 +1,44 @@
+I
+ID.No         Fi = NAME        {S    Age               ;
+CONSUMABLE EMESET INS 2ML.                 1670183 30040020         1           i             | 0.00
+INJ Ceftor lem                                          CPRL-OS 30/03/2020        1          0           36.65
+SUR IV SET                                              33205 05/02/2023  ~ [1          6         126.00
+SUR EXAM. GLOVES                          82MA4741) 28/02/2022       4         t)           24.00
+SUR Syringe -10 mil(b.d,)                                    BNA24 30/01/202]         2           0              4.00
+SUR SYRINGE -SML DISPOVAN                       GDN2¢ 30/12/2621          2            q                8.00
+WITH NEE                                                                                                           |
+CONSUMABLE NS SO0ML 1*S00ML           40680339 30/03/2021         ]          6             426
+INIENS JOOML(CLA RIS)                          40680402 30/05/2021        1          0            5.52
+CONSUMABLE EXAMINATION          BPFR30118C06 28/02/2022         it           6              4.00
+GLOVES 8. 1*100
+:                     Issue No 17458                          Date 11/10/2018
+SYP Lycosule syp                                            0222 30/04/2019        i          0          129.00
+CONSUMABLE M UCAINE GEL            BPFR30118C06 28/02/2021                          i             “t 16
+200ML
+SYP Megutus syp                                          1172045 30/12/2019                    0            9  00
+INJ DNS                                                     x324sd 30/12/2020                   0 216,63
+(NJ Iq-mol in}                                    ATIS6 30/05/2019      4        0       750,00.
+Isiue No 17648                                 Date 12/10/2018                                                 |
+* | CONSUMABLE EMESET INJ 2MI,             1670183 30/b42020       4         J          11:89
+TAB DOM-DT -10                                   C-80129 30/12/2019        G         a          [  70
+INH NS IOOML({CLARIS)                     40680402 30/05/2021      3        0       106,56
+SUR Syringe -10 mi(b.d,)                            BNA24 30/01/2021 3           0           66,00
+INJ PERINORM -2M, L (SMG/ML)                 $€258027d 2802/202]         2           2              ii
+IVS NS 500ML (CLARIS)                                GBC45 30/03/2020         !           0            74126
+ssue No 17558                                 Date 12/10/2018                                                i]
+[NJ Ceftor tem                                CPRL-0S 30/03/2020      2       0       113.30
+NI Nitgord                                                         ngd-03 30/0572020 4]            )           198.0
+NJ Iq-mot inj                                                     A7156 30/05/2019         !            6           375.00
+ELE ECG ELECTRODES-3M                 43617908G000 30/] 2/2022         3           a           4124,  0
+Total Amount                         5339.11                               |
+Rounded Off                         5339.00
+Dr, Naveen Chawla(Medicine Dept) Visit Charge                                                        | |
+Db. Naveen Chawla(Medicine Dept)       General      10/102018 750.00            I           750:00
+Df. Naveen Chawla(Medicine Dept.)      General      11/10/2018 750.00           j           75400
+Di. Naveen Chawla(Medicine Dept.)      Genera]     12/10/2018 600.00          |          60: 1.00
+Dg. Naveen Chawla(Medicine Dept.)     Genera]     13/102018 600.00         t         600.00
+Dr Naveen Chawla(Medicine Dept)       General * 14/10/2018     600,00            1            600,00
+Total Amount                                          3300.90
+Page No.-3                                                               |
+Or
+.                                                    |
